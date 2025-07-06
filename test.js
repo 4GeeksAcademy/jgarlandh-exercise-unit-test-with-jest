@@ -1,4 +1,4 @@
-const { fromDollarToYen, fromEuroToDollar, fromYanToPound } = require('./currencyConverter');
+const { fromDollarToYen, fromEuroToDollar, fromYanToPound } = require('./app');
 
 // Prueba para fromDollarToYen
 test('Convierte 100 USD a JPY', () => {
